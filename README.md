@@ -1,4 +1,10 @@
 # Credit Card Fraud Detection App
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-2E2E2E?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
 
 A Streamlit app that detects fraudulent credit card transactions using a Random Forest classifier trained on anonymized data.
 
