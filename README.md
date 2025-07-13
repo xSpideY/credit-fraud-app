@@ -8,6 +8,10 @@ A Streamlit app that detects fraudulent credit card transactions using a Random 
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://credit-fraud-app-qjfbpmv8f7gnuskaz5fet2.streamlit.app/)
 
+## Open in Colab
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/xSpideY/credit-fraud-app/blob/main/Credit_Card_Fraud_Analysis.ipynb)
+
 
 ## 🔍 Features
 - Upload CSV and get instant predictions
