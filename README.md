@@ -2,6 +2,13 @@
 
 A Streamlit app that detects fraudulent credit card transactions using a Random Forest classifier trained on anonymized data.
 
+## 🚀 Launch the App
+
+👉 Click below to open the live Streamlit app:
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://credit-fraud-app-qjfbpmv8f7gnuskaz5fet2.streamlit.app/)
+
+
 ## 🔍 Features
 - Upload CSV and get instant predictions
 - Fraud probability with `predict_proba`
